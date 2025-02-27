@@ -9,7 +9,7 @@ https://github.com/timsutton/brew-pkg
 But we have a tweaked version with a few fixes, so install with:
 
 ```shell
-brew tap jcupitt/build-nip4-macos
+brew tap jcupitt/build-nip4-macos https://github.com/jcupitt/build-nip4-macos
 brew install brew-pkg
 ```
 
