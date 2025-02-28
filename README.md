@@ -35,3 +35,4 @@ brew /opt/homebrew/bin/brew-pkg.rb \
     nip4
 ```
 
+Makes a 220mb .pkg, 7.5gb installed!
